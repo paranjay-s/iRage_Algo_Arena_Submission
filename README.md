@@ -1,6 +1,6 @@
-# iRage_Algo_Arena_Submission
+# Solution: iRage AlgoArena 2026 (March 23rd to 12th April)
 
-# Solution: iRage AlgoArena 2026
+## Ranked 1st out of 800+ candidates, won a cash price of Rs 200k
 
 ## The Challenge
 * Predict the short-horizon percentage return of an asset's price using an anonymized dataset of 445 time-series features.
