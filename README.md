@@ -18,3 +18,4 @@
 * **Core Model:** Trained a highly stable, beta-neutral 2-component Partial Least Squares (PLS) regression.
 * **Symbolic Modulators:** Stacked three custom non-linear feature interactions (a linear combination, a 2-D ReLU energy product, and a 5-D Omega stack) using offline-tuned multipliers.
 * **Asymmetric Post-Processing:** Scaled the positive prediction tail by exactly 1.1x to perfectly match the raw target amplitude.
+* **Robust Offline Evaluation:** Implemented a custom evaluation metric that directly replicated the competition's final scoring criteria, eliminating the risk of leaderboard shake-up.
