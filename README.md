@@ -11,6 +11,9 @@
 * Complex deep learning models lacked the required signal strength.
 * Standard 10-fold bagging and ensembling smoothed out our prediction variance way too much, which heavily penalized the R2 score.
 
+## irage phase 0- The Initial Research Notebook
+* This was the initial version of the research notebook which gave me a lot of insights that helped me a lot in the later phases of the competition to get more edge.
+
 ## What Succeeded: 
 * **Dynamic Target Protection:** Forced a normal target distribution (Kurtosis = 3.0) on the training data to calculate safe, dynamic clipping boundaries.
 * **Autoregressive Engineering:** Built simple Lag 1, Lag 2, and Lag 3 momentum features based on past returns.
